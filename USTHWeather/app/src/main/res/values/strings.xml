@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">USTH Weather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="monday">Thứ hai</string>
+    <string name="tablayout">TabLayout</string>
+    <string name="_12c">12°C</string>
+    <string name="cloudy">Trời nhiều mây</string>
+    <string name="sunny_n23c_30c">23°C - 30°C</string>
+    <string name="tuesday">Thứ ba</string>
+    <string name="wednesday">Thứ tư</string>
+    <string name="thursday">Thứ năm</string>
+    <string name="friday">Thứ sáu</string>
+    <string name="saturday">Thứ bảy</string>
+    <string name="sunday">Chủ nhật</string>
+    <string name="_25c">25°c</string>
+</resources>
